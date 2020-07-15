@@ -26,7 +26,8 @@ SECRET_KEY = 'eb$$l33n9(m-@xh*+i9zrj_(9f2_o=-ny@$9pwz+#85zc=zk-!'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'profileapi.run-ap-south1.goorm.io'
+    'profileapi.run-ap-south1.goorm.io',
+    "dashcart.run-ap-south1.goorm.io"
 ]
 
 
